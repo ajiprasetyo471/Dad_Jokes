@@ -53,10 +53,6 @@ export default {
   font-weight: 400 !important;
 }
 
-//.card-text {
-//  font-weight: 600 !important;
-//}
-
 .btn {
   width: 140px !important;
 }
